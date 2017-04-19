@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="CompanyName">MadCap Software</Variable>
+    <Variable Comment="" Name="PhoneNumber">858 123 4567</Variable>
+    <Variable Name="on build" Comment="" Type="DateTime" LastUpdated="2016-07-27T22:50:49.8589407-07:00" EvaluatedDefinition="&quot;on build&quot; hh:mm:ss tt - dddd, MMMM yyy">"on build" hh:mm:ss tt - dddd, MMMM yyy</Variable>
+    <Variable Name="manually" Comment="" Type="DateTimeManual" LastUpdated="2016-07-27T22:52:20.9469982-07:00" EvaluatedDefinition="&quot;manually&quot; hh:mm:ss tt - dddd, MMMM yyy">"manually" hh:mm:ss tt - dddd, MMMM yyy</Variable>
+    <Variable Name="on file creation" Comment="" Type="DateTimeFileCreated" LastUpdated="2016-07-27T22:53:09.6266627-07:00" EvaluatedDefinition="&quot;on file creation&quot; hh:mm:ss tt - dddd, MMMM yyy">"on file creation" hh:mm:ss tt - dddd, MMMM yyy</Variable>
+    <Variable Name="on file save" Comment="" Type="DateTimeFileSaved" LastUpdated="2016-07-27T22:53:34.8576871-07:00" EvaluatedDefinition="&quot;on file save&quot; hh:mm:ss tt - dddd, MMMM yyy">"on file save" hh:mm:ss tt - dddd, MMMM yyy</Variable>
+    <Variable Name="on project save" Comment="" Type="DateTimeProjectSaved" LastUpdated="2016-07-27T22:53:58.7451274-07:00" EvaluatedDefinition="&quot;on project save&quot; hh:mm:ss tt - dddd, MMMM yyy">"on project save" hh:mm:ss tt - dddd, MMMM yyy</Variable>
+</CatapultVariableSet>

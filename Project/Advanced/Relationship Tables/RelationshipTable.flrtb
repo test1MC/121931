@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<reltable xmlns="http://docs.oasis-open.org/dita/v1.1/schema/ditabase.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <relheader>
+        <relcolspec type="concept" />
+        <relcolspec type="task" />
+        <relcolspec type="reference" />
+    </relheader>
+    <relrow>
+        <relcell>
+            <topicref href="/Content/Blue.htm" />
+            <topicref href="/Content/Red.htm" />
+            <topicref href="/Content/Yellow.htm" />
+        </relcell>
+        <relcell>
+            <topicref href="/Content/Topic.htm" />
+        </relcell>
+        <relcell>
+            <topicref href="/Content/Startup Topic.htm" />
+        </relcell>
+    </relrow>
+</reltable>

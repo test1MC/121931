@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Topic Title" Link="/Content/Topic.htm" />
+    <TocEntry Title="Blue" Link="/Content/Blue topic.htm" />
+    <TocEntry Title="Red" Link="/Content/Red topic.htm" />
+    <TocEntry Title="Yellow" Link="/Content/Yellow Topic.htm" />
+</CatapultToc>

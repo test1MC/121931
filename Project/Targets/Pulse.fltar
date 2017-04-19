@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="WebHelp2" Destinations="" GlossaryTermConversion="marked" EnableFeedbackService="true" LiveHelpServer="http://jharkins06/Pulse/" LiveHelpKey="adww1-adu60-f3067-5962d-4d79a-ef795-a5c7f-7b320" Skin="/Project/Skins/HTML5 - Top Navigation.flskn">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+</CatapultTarget>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSearchFilterSet>
+    <SearchFilter Name="My Inline" Concepts="Color Inline" Order="0">
+    </SearchFilter>
+    <SearchFilter Name="My Topic" Comment="" Order="1" Concepts="Color Topic" />
+</CatapultSearchFilterSet>

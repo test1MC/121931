@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination Version="1" Comment="This is my publish destination" Host="rnd.madcapsoftware.com" User="MyAccountId" Password="" Directory="john/PublishFromMCC" Port="" ViewUrl="http://rnd.madcapsoftware.com/john/PublishFromMCC/Default.htm" Type="ftp" ConnectionMode="Active">
+</CatapultDestination>

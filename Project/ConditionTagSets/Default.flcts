@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+    <ConditionTag Comment="" Name="ScreenOnly" BackgroundColor="Blue" />
+    <ConditionTag Comment="" Name="PrintOnly" BackgroundColor="Red" />
+    <ConditionTag BackgroundColor="#1abcd6" Name="Blue" Comment="" />
+    <ConditionTag BackgroundColor="#ff0056" Name="Red" Comment="" />
+    <ConditionTag BackgroundColor="#d7da08" Name="Yellow" Comment="" />
+</CatapultConditionTagSet>

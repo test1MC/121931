@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget Version="1" Comment="New Batch Target" Guid="9dca6394-9632-4742-85d0-3367b65f41be">
+    <Targets>
+        <Target Icon="System.Drawing.Bitmap" Name="Alias" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="AutoSize" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Chunk LARGE DB - 1000" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="ChunkGlossary-1000" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="ChunkIndex-1000" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="ChunkTOC-1000" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Comment" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="ConditionedText-Exclude" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="ConditionedText-Include" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="ConditionedTopic-Exclude" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="ConditionedTopic-Include" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="CustomFileExtension-HTML" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="DoNotGenerateResizedImages" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="DoNotUseContentFolder" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="EmptyALTtext" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Equations PNG" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Equations SVG" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Exclude Content" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Exclude Index Entries From Search" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Exclude Non-Words" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="GenerateAllSkins" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="GenerateWebSafeImagesGIF" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="GenerateWeSafeImagesJPG" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="GenerateWeSafeImagesPNG" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Glossary all occurances" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Glossary dont mark terms" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Glossary first occurance" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Glossary only marked terms" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="HTML5" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="HTML5-Skin_Tripane" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="HTML5-Skin_TripaneResonsive" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Import-disableAutoSync" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Language" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="LAST TARGET HARKINS NEW CO SHOULD SEE" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="lowercase" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="MarkOfTheWeb" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="MasterPage-Orange" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Medium-Purple" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Output File" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Output File w Variable" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Output Folder" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Partial Word Search" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Pre Merge Search" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Prevent external URLS from frames" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="PROJECTTESTING2" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Publishing" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Pulse" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Relationship Table" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="RemoveMadCapStyles" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="RemoveMetaTags" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Search 2 ResultsPerPage 15CharacterLimit" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Search Filters" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="SourceControl-getLatest" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Startup Topic" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Stylesheet" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Stylesheet- Allow local" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="TOC" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="UNChunk LARGE DB" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="UNChunkGlossary" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="UNChunkIndex" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="UNChunkTOC" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Uncondensed JS" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Underscores" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Variable Override" Type="HTML5" Build="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Warnings-NONE" Type="HTML5" Build="true" />
+    </Targets>
+</CatapultBatchTarget>
